@@ -18,6 +18,7 @@ use Packback\Lti1p3\LtiRegistration;
  */
 class FirestoreRegistration extends LtiRegistration implements FirestoreObject
 {
+    // TODO make FirestoreRegistration::COLLECTION_PATH configurable
     public const COLLECTION_PATH = 'lti_registrations';
 
     /** @var string[] $deployments */

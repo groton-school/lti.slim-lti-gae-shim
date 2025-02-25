@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace GrotonSchool\SlimLTI\GAE\Infrastructure;
 
-use App\Infrastructure\LTI\Firestore\FirestoreRegistration;
+use GrotonSchool\SlimLTI\GAE\Infrastructure\Firestore\FirestoreRegistration;
 use Packback\Lti1p3\Interfaces\IDatabase;
 use Google\Cloud\Firestore\FirestoreClient;
 use Packback\Lti1p3\Interfaces\ILtiRegistration;

@@ -19,6 +19,7 @@ class Cache implements ICache
     private Memcache $memcache;
     private int $duration;
 
+    // FIXME SettingsInterface undefined in slim-lti-gae-shim
     public function __construct(SettingsInterface $settings)
     {
         $this->memcache = new Memcache();
