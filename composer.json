@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "GrotonSchool\\SlimLTI\\GAE\\": "src/"
+      "GrotonSchool\\Slim\\LTI\\GAE\\": "src/"
     }
   },
   "scripts": {

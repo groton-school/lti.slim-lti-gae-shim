@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GrotonSchool\SlimLTI\GAE\Infrastructure\Firestore;
+namespace GrotonSchool\Slim\LTI\GAE\Infrastructure\Firestore;
 
 use Packback\Lti1p3\LtiRegistration;
 

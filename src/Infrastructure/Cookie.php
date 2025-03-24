@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace GrotonSchool\SlimLTI\GAE\Infrastructure;
+namespace GrotonSchool\Slim\LTI\GAE\Infrastructure;
 
 use Packback\Lti1p3\Interfaces\ICookie;
 
