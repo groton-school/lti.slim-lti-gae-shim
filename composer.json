@@ -9,7 +9,7 @@
   ],
   "license": "GPL-3.0",
   "require": {
-    "groton-school/slim-lti-shim": "self.version",
+    "groton-school/slim-lti-shim": "0.0.0",
     "packbackbooks/lti-1p3-tool": "^6.2",
     "google/cloud-firestore": "^1.48",
     "slim/slim": "^4.14",

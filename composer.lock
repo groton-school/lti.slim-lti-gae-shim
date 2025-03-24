@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b762187e9afd0770f1d7087bccb941ee",
+    "content-hash": "e1fef7eadf296ecda4f6bf85923da412",
     "packages": [
         {
             "name": "brick/math",
@@ -943,10 +943,10 @@
             "dist": {
                 "type": "path",
                 "url": "../../packages/slim-lti-shim",
-                "reference": "89c51e9d2c1ecefd99d5d50678c33615801d2d7a"
+                "reference": "2cc69b7a8af4c73c76294a2c33afcc73bdc08c66"
             },
             "require": {
-                "groton-school/slim-action": "self.version",
+                "groton-school/slim-action": "0.0.0",
                 "packbackbooks/lti-1p3-tool": "^6.2",
                 "slim/psr7": "^1.7"
             },
